@@ -57,11 +57,4 @@ This repository contains Jupyter notebooks covering fundamental concepts of Pyth
   pip install -r requirements.txt
   ```
 
-## 🏆 Your Contributions
-This repository is a part of your **Python learning journey**. So far, you have:
-- Explored Python objects and their types.
-- Learned string manipulations, including slicing and formatting.
-- Worked extensively with lists, sets, tuples, and dictionaries.
-- Understood control flow using conditional statements and loops.
-- Applied Python concepts to solve real-world exercises.
-- Created solutions to solidify your understanding.
+
